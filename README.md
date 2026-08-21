@@ -537,3 +537,18 @@ Phase 31 → Professional Python
 ## 📜 License
 
 This repository is created for **learning, practice, and educational purposes**.
+
+## 👨‍💻 Author
+
+**Saif Ur Rahman**
+
+Aspiring **MERN Stack Developer** & **AI/ML Enthusiast**
+
+### 🚀 Xenoriq Labs
+
+**Building skills. Creating solutions. Growing continuously. 🚀**
+
+---
+
+⭐ If you find this repository useful, feel free to **star it** and **follow the journey**.
+
