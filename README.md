@@ -1,4 +1,4 @@
-### 🐍 Python — Learning & Practice
+# 🐍 Python — Learning & Practice
 
 Welcome to my **Python Learning & Practice Repository**.
 
@@ -6,73 +6,73 @@ This repository documents my structured journey of learning Python, progressing 
 
 ---
 
-### 📚 Python Roadmap
+## 📚 Python Roadmap
 
-## Phase 1 — Python Fundamentals
+### Phase 1 — Python Fundamentals
 
-## Phase 2 — Data Types
+### Phase 2 — Data Types
 
-## Phase 3 — Operators
+### Phase 3 — Operators
 
-## Phase 4 — Conditions
+### Phase 4 — Conditions
 
-## Phase 5 — Loops
+### Phase 5 — Loops
 
-## Phase 6 — Strings
+### Phase 6 — Strings
 
-## Phase 7 — Lists
+### Phase 7 — Lists
 
-## Phase 8 — Tuples, Sets & Dictionaries
+### Phase 8 — Tuples, Sets & Dictionaries
 
-## Phase 9 — Functions
+### Phase 9 — Functions
 
-## Phase 10 — Modules & Packages
+### Phase 10 — Modules & Packages
 
-## Phase 11 — File Handling
+### Phase 11 — File Handling
 
-## Phase 12 — Exception Handling
+### Phase 12 — Exception Handling
 
-## Phase 13 — OOP
+### Phase 13 — OOP
 
-## Phase 14 — Advanced Python
+### Phase 14 — Advanced Python
 
-## Phase 15 — Iterators & Generators
+### Phase 15 — Iterators & Generators
 
-## Phase 16 — Decorators & Closures
+### Phase 16 — Decorators & Closures
 
-## Phase 17 — Type Hints
+### Phase 17 — Type Hints
 
-## Phase 18 — Dates, Time & Math
+### Phase 18 — Dates, Time & Math
 
-## Phase 19 — Regular Expressions
+### Phase 19 — Regular Expressions
 
-## Phase 20 — JSON, CSV & Data
+### Phase 20 — JSON, CSV & Data
 
-## Phase 21 — Virtual Environments & pip
+### Phase 21 — Virtual Environments & pip
 
-## Phase 22 — Testing & Debugging
+### Phase 22 — Testing & Debugging
 
-## Phase 23 — Database
+### Phase 23 — Database
 
-## Phase 24 — APIs & HTTP
+### Phase 24 — APIs & HTTP
 
-## Phase 25 — Concurrency & Async
+### Phase 25 — Concurrency & Async
 
-## Phase 26 — Python Internals
+### Phase 26 — Python Internals
 
-## Phase 27 — Automation
+### Phase 27 — Automation
 
-## Phase 28 — Web Development
+### Phase 28 — Web Development
 
-## Phase 29 — Data Science
+### Phase 29 — Data Science
 
-## Phase 30 — AI / Machine Learning
+### Phase 30 — AI / Machine Learning
 
-## Phase 31 — Professional Python
+### Phase 31 — Professional Python
 
 ---
 
-### 🎯 About
+## 🎯 About
 
 The purpose of this repository is to develop a strong understanding of Python through:
 
@@ -87,7 +87,7 @@ The focus is on understanding **how and why Python works**, while developing the
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Python
 * Visual Studio Code
@@ -108,7 +108,7 @@ The focus is on understanding **how and why Python works**, while developing the
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 Practical projects will be developed throughout the learning journey to turn concepts into real-world applications.
 
@@ -127,7 +127,7 @@ Project areas include:
 
 ---
 
-### 📈 Learning Philosophy
+## 📈 Learning Philosophy
 
 > **Learn → Practice → Build → Improve → Master**
 
@@ -137,7 +137,7 @@ The repository will continue to evolve as new concepts, experiments, exercises, 
 
 ---
 
-### 🎓 Learning Outcomes
+## 🎓 Learning Outcomes
 
 By completing this roadmap, the goal is to be able to:
 
@@ -153,13 +153,13 @@ By completing this roadmap, the goal is to be able to:
 
 ---
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
 **Saif Ur Rahman**
 
 Aspiring **MERN Stack Developer** & **AI/ML Enthusiast**
 
-#### Xenoriq Labs
+## Xenoriq Labs
 
 **Building skills. Creating solutions. Growing continuously. 🚀**
 
