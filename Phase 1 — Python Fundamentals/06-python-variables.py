@@ -81,12 +81,6 @@ print(Name)
 # class = "Python"     # Invalid
 # if = 10              # Invalid
 
-
-# --> 5. Constants Convention
-
-# Python does not have a strict constant keyword.
-# By convention, constants are written in uppercase letters.
-
 # --> 5. Constants Convention
 
 # Python does not have a strict constant keyword.
