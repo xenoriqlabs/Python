@@ -1,4 +1,4 @@
-# 1. type()
+# --> 1. type()
 
 name = "Saif"
 age = 25
@@ -10,7 +10,7 @@ print(type(age))         # <class 'int'>
 print(type(height))      # <class 'float'>
 print(type(is_student))  # <class 'bool'>
 
-# 2. type() with different data types
+# --> 2. type() with different data types
 
 print(type(10))          # int
 print(type(10.5))        # float
@@ -18,7 +18,7 @@ print(type("Hello"))     # str
 print(type(True))        # bool
 print(type(None))        # NoneType
 
-# 3. isinstance()
+# --> 3. isinstance()
 
 # isinstance() checks whether a value is of a specific data type or not.
 
@@ -40,7 +40,7 @@ print(isinstance(age, int))        # True
 print(isinstance(price, float))    # True
 print(isinstance(is_active, bool)) # True
 
-# 5. Check Multiple Types
+# --> 4. Check Multiple Types
 
 # You can use a tuple in `isinstance()` to check multiple data types
 
