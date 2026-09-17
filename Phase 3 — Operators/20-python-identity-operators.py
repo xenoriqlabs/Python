@@ -3,7 +3,7 @@
 # ==========================================
 
 # 'is' checks whether two variables
-# refer to the SAME object.
+# refer to the SAME object
 
 a = [1, 2, 3]
 b = a
