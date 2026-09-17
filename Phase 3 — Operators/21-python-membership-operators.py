@@ -16,3 +16,7 @@ print("grapes" in fruits)
 # 2. 'not in' Operator with List
 # ==========================================
 
+print('\nNOT IN Operator:')
+
+print('grapes' not in fruits)
+print('apple' not in fruits)
