@@ -33,3 +33,24 @@ print('Xenoriq' in company)
 print('Labs' in company)
 print('Pyhton' in company)
 
+# ==========================================
+# 4. 'not in' Operator with String
+# ==========================================
+
+print("\nString NOT IN:")
+
+print("Python" not in company)
+print("Xenoriq" not in company)
+
+# ==========================================
+# 5. Character Membership
+# ==========================================
+
+name = "Saif"
+
+print("\nCharacter Membership:")
+
+print("S" in name)
+print("a" in name)
+print("z" in name)
+
