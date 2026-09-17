@@ -184,6 +184,7 @@ print("Access allowed:", access_allowed)
 # ==========================================
 
 age = 20
+
 is_student = True
 is_banned = False
 
