@@ -1,166 +1,238 @@
 # ==========================================
-# 1. 'is' Operator
+# 1. 'in' Operator with List
 # ==========================================
 
-# 'is' checks whether two variables
-# refer to the SAME object.
+# 'in' checks whether a value exists
+# inside a collection.
 
-a = [1, 2, 3]
-b = a
+fruits = ["apple", "banana", "mango", "orange"]
 
-print("IS Operator:")
-print("a is b:", a is b)
-
-
-# ==========================================
-# 2. 'is not' Operator
-# ==========================================
-
-# 'is not' checks whether two variables
-# refer to DIFFERENT objects.
-
-x = [10, 20, 30]
-y = [10, 20, 30]
-
-print("\nIS NOT Operator:")
-print("x is not y:", x is not y)
+print("IN Operator:")
+print("apple" in fruits)
+print("banana" in fruits)
+print("grapes" in fruits)
 
 
 # ==========================================
-# 3. '==' vs 'is'
+# 2. 'not in' Operator with List
 # ==========================================
 
-# '==' compares values.
-# 'is' compares object identity.
+print("\nNOT IN Operator:")
 
-list1 = [1, 2, 3]
-list2 = [1, 2, 3]
-
-print("\n== vs is:")
-print("list1 == list2:", list1 == list2)
-print("list1 is list2:", list1 is list2)
+print("grapes" not in fruits)
+print("apple" not in fruits)
 
 
 # ==========================================
-# 4. Same Object
+# 3. 'in' Operator with String
 # ==========================================
 
-numbers1 = [10, 20, 30]
-numbers2 = numbers1
+company = "Xenoriq Labs"
 
-print("\nSame Object:")
-print("numbers1 == numbers2:", numbers1 == numbers2)
-print("numbers1 is numbers2:", numbers1 is numbers2)
+print("\nString Membership:")
 
-
-# ==========================================
-# 5. Different Objects
-# ==========================================
-
-numbers3 = [10, 20, 30]
-numbers4 = [10, 20, 30]
-
-print("\nDifferent Objects:")
-print("numbers3 == numbers4:", numbers3 == numbers4)
-print("numbers3 is numbers4:", numbers3 is numbers4)
+print("Xenoriq" in company)
+print("Labs" in company)
+print("Python" in company)
 
 
 # ==========================================
-# 6. Using 'is' with None
+# 4. 'not in' Operator with String
 # ==========================================
 
-name = None
+print("\nString NOT IN:")
 
-print("\nNone Check:")
-
-print("name is None:", name is None)
-print("name is not None:", name is not None)
+print("Python" not in company)
+print("Xenoriq" not in company)
 
 
 # ==========================================
-# 7. Practical None Example
+# 5. Character Membership
 # ==========================================
 
-username = None
+name = "Saif"
 
-if username is None:
-    print("Username is not available")
+print("\nCharacter Membership:")
+
+print("S" in name)
+print("a" in name)
+print("z" in name)
+
+
+# ==========================================
+# 6. Tuple Membership
+# ==========================================
+
+languages = (
+    "Python",
+    "C++",
+    "JavaScript",
+    "Java"
+)
+
+print("\nTuple Membership:")
+
+print("Python" in languages)
+print("C++" in languages)
+print("PHP" in languages)
+
+print("PHP" not in languages)
+print("Python" not in languages)
+
+
+# ==========================================
+# 7. Set Membership
+# ==========================================
+
+skills = {
+    "Python",
+    "C++",
+    "JavaScript",
+    "React",
+    "Node.js"
+}
+
+print("\nSet Membership:")
+
+print("Python" in skills)
+print("React" in skills)
+print("Flutter" in skills)
+
+print("Flutter" not in skills)
+
+
+# ==========================================
+# 8. Dictionary Membership
+# ==========================================
+
+student = {
+    "name": "Saif",
+    "age": 20,
+    "city": "Sahiwal"
+}
+
+print("\nDictionary Membership:")
+
+# 'in' checks dictionary keys.
+
+print("name" in student)
+print("age" in student)
+print("email" in student)
+
+
+# ==========================================
+# 9. Checking Dictionary Values
+# ==========================================
+
+print("\nDictionary Values:")
+
+print("Saif" in student.values())
+print("Lahore" in student.values())
+
+print("Lahore" not in student.values())
+
+
+# ==========================================
+# 10. Practical Course Example
+# ==========================================
+
+courses = [
+    "Python",
+    "C++",
+    "CSS3",
+    "JavaScript",
+    "AI/ML"
+]
+
+course = "Python"
+
+print("\nCourse Availability:")
+
+if course in courses:
+    print("Course is available")
+else:
+    print("Course is not available")
+
+
+# ==========================================
+# 11. Course Not Available Example
+# ==========================================
+
+course = "Flutter"
+
+if course not in courses:
+    print("Flutter course is not available")
+else:
+    print("Flutter course is available")
+
+
+# ==========================================
+# 12. Username Check
+# ==========================================
+
+usernames = [
+    "Saif",
+    "Ali",
+    "Ahmed",
+    "Usman"
+]
+
+username = "Saif"
+
+print("\nUsername Check:")
+
+if username in usernames:
+    print("Username already exists")
 else:
     print("Username is available")
 
 
 # ==========================================
-# 8. Practical 'is not None' Example
+# 13. Email Domain Check
 # ==========================================
 
-email = "saif@example.com"
+email = "saif@xenoriqlabs.com"
 
-if email is not None:
-    print("Email is available")
+print("\nEmail Check:")
+
+if "@xenoriqlabs.com" in email:
+    print("This is a Xenoriq Labs email")
 else:
-    print("Email is not available")
+    print("This is not a Xenoriq Labs email")
 
 
 # ==========================================
-# 9. Object Reference Example
+# 14. Search Example
 # ==========================================
 
-company1 = ["Xenoriq Labs"]
-company2 = company1
+description = "Xenoriq Labs builds modern software and AI solutions."
 
-print("\nObject Reference:")
-print("company1 is company2:", company1 is company2)
+search_word = "AI"
 
+print("\nSearch Example:")
 
-# ==========================================
-# 10. Separate Object Example
-# ==========================================
-
-company3 = ["Xenoriq Labs"]
-company4 = ["Xenoriq Labs"]
-
-print("\nSeparate Objects:")
-print("company3 == company4:", company3 == company4)
-print("company3 is company4:", company3 is company4)
-print("company3 is not company4:", company3 is not company4)
-
-
-# ==========================================
-# 11. Boolean Identity Example
-# ==========================================
-
-value = True
-
-print("\nBoolean Identity:")
-print("value is True:", value is True)
-print("value is not False:", value is not False)
-
-
-# ==========================================
-# 12. Practical User Data Example
-# ==========================================
-
-user = {
-    "name": "Saif",
-    "email": None
-}
-
-print("\nUser Data:")
-
-if user["email"] is None:
-    print("User has not provided an email")
+if search_word in description:
+    print("Search word found")
 else:
-    print("User email:", user["email"])
+    print("Search word not found")
 
 
 # ==========================================
-# 13. Important Difference
+# 15. Combining Membership Operators
 # ==========================================
 
-first = [100, 200]
-second = [100, 200]
+programming_languages = [
+    "Python",
+    "C++",
+    "JavaScript"
+]
 
-print("\nImportant Difference:")
-print("Same values:", first == second)
-print("Same object:", first is second)
-print("Different objects:", first is not second)
+language = "Python"
+
+print("\nLanguage Check:")
+
+if language in programming_languages:
+    print(language, "is supported")
+    
+if "Java" not in programming_languages:
+    print("Java is not in the list")
