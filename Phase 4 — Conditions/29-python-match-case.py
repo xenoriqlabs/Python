@@ -1,7 +1,6 @@
 
 # ========================================
 # Python Match-Case Statement
-# File: 29-python-match-case.py
 # Company: Xenoriq Labs
 # Requires: Python 3.10+
 # ========================================
