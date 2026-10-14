@@ -1,6 +1,5 @@
 
 # Python Match-Case Statement
-# Requires: Python 3.10+
 # ========================================
 
 number = 2
