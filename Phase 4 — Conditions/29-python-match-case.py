@@ -1,5 +1,4 @@
 
-# ========================================
 # Python Match-Case Statement
 # Company: Xenoriq Labs
 # Requires: Python 3.10+
