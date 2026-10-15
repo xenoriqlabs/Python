@@ -165,7 +165,7 @@ match number:
         print("The number is zero.")
 
 
-# Example 10: Match a Tuple
+# Example 10: Match in a Tuple
 
 point = (0, 5)
 
