@@ -150,7 +150,7 @@ match course:
     case _:
         print("Course not available.")
 
-# Example 9: Match with a Condition (Guard)
+# Example 9: Match with Condition (Guard)
 
 number = 15
 
