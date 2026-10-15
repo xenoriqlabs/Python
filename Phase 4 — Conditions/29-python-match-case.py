@@ -174,13 +174,10 @@ match point:
         print("The point is at the origin.")
 
     case (0, y):
-        
         print("The point is on the Y-axis.")
 
     case (x, 0):
-
         print("The point is on the X-axis.")
 
     case (x, y):
-
         print("The point is somewhere else.")
