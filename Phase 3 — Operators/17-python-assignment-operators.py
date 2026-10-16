@@ -1,6 +1,5 @@
 # ============================================================
 #              PYTHON ASSIGNMENT OPERATORS
-#              File: 17-python-assignment-operators.py
 # ============================================================
 
 # Assignment Operators:
