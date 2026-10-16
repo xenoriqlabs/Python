@@ -1,4 +1,4 @@
-# Python Match-Case Statement
+# Python Match-Case Statements
 
 number = 2
 
