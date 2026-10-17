@@ -11,9 +11,9 @@ b = a
 print("IS Operator:")
 print("a is b:", a is b)
 
-# ==========================================
+# =========================================
 # 2. 'is not' Operator
-# ==========================================
+# =========================================
 
 # 'is not' checks whether two variables
 # refer to DIFFERENT objects.
