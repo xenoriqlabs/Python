@@ -71,9 +71,9 @@ print("\nNone Check:")
 print("name is None:", name is None)
 print("name is not None:", name is not None)
 
-# ==========================================
+# =========================================
 # 7. Practical None Example
-# ==========================================
+# =========================================
 
 print("\nPractical None Example")
 
