@@ -49,9 +49,9 @@ print("\nSame Object:")
 print("numbers1 == numbers2:", numbers1 == numbers2)
 print("numbers1 is numbers2:", numbers1 is numbers2)
 
-# ==========================================
+# =========================================
 # 5. Different Objects
-# ==========================================
+# =========================================
 
 numbers3 = [10, 20, 30]
 numbers4 = [10, 20, 30]
