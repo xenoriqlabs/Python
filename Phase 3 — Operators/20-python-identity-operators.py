@@ -60,9 +60,9 @@ print("\nDifferent Objects:")
 print("numbers3 == numbers4", numbers3 == numbers4)
 print("numbers3 is numbers4", numbers3 is numbers4)
 
-# ==========================================
+# =========================================
 # 6. Using 'is' with None
-# ==========================================
+# =========================================
 
 name = None
 
