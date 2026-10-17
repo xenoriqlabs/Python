@@ -109,9 +109,9 @@ company2 = company1
 print("\nObject Reference:")
 print("company1 is company2:", company1 is company2)
 
-# ==========================================
+# =========================================
 # 10. Separate Object Example
-# ==========================================
+# =========================================
 
 company3 = ["Xenoriq Labs"]
 company4 = ["Xenoriq Labs"]
