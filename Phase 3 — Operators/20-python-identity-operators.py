@@ -121,9 +121,9 @@ print("company3 == company4:", company3 == company4)
 print("company3 is company4:", company3 is company4)
 print("company3 is not company4:", company3 is not company4)
 
-# ==========================================
+# =========================================
 # 11. Boolean Identity Example
-# ==========================================
+# =========================================
 
 value = True
 
