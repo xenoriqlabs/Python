@@ -84,9 +84,9 @@ if username is None:
 else:
     print("Username is available")
 
-# ==========================================
+# =========================================
 # 8. Practical 'is not None' Example
-# ==========================================
+# =========================================
 
 print("\nPractical 'is not None' Example")
 
