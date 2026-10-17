@@ -97,9 +97,9 @@ if email is not None:
 else:
     print("Email is not available")
 
-# ==========================================
+# =========================================
 # 9. Object Reference Example
-# ==========================================
+# =========================================
 
 print("\nObject Reference Example")
 
