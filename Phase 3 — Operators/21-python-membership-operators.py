@@ -33,9 +33,9 @@ print('Xenoriq' in company)
 print('Labs' in company)
 print('Pyhton' in company)
 
-# ==========================================
+# =========================================
 # 4. 'not in' Operator with String
-# ==========================================
+# =========================================
 
 print("\nString NOT IN:")
 
