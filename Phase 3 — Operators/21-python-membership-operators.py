@@ -12,9 +12,9 @@ print("apple" in fruits)
 print("banana" in fruits)
 print("grapes" in fruits)
 
-# ==========================================
+# =========================================
 # 2. 'not in' Operator with List
-# ==========================================
+# =========================================
 
 print('\nNOT IN Operator:')
 
