@@ -21,9 +21,9 @@ print('\nNOT IN Operator:')
 print('grapes' not in fruits)
 print('apple' not in fruits)
 
-# ==========================================
+# =========================================
 # 3. 'in' Operator with String
-# ==========================================
+# =========================================
 
 company = 'Xenoriq Labs'
 
