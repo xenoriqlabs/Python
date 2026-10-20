@@ -157,9 +157,9 @@ print("Binary of 20:", bin(20))
 print("Binary of 20 >> 1:", bin(result1))
 print("Binary of 20 >> 2:", bin(result2))
 
-# ==========================================
+# =========================================
 # 7. Practical AND Example
-# ==========================================
+# =========================================
 
 # Check whether specific bits are enabled.
 
