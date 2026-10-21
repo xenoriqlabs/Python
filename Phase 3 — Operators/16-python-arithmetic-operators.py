@@ -1,7 +1,3 @@
-# ===========================================================
-#              PYTHON ARITHMETIC OPERATORS
-# ===========================================================
-
 # Arithmetic Operators:
 # +   Addition
 # -   Subtraction
