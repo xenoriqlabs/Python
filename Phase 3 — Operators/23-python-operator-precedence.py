@@ -196,9 +196,9 @@ print("True or False and False =", result)
 # True or False → True
 
 
-# ==========================================
+# ===========================================
 # 13. Parentheses Change Logical Evaluation
-# ==========================================
+# ===========================================
 
 result = (True or False) and False
 
