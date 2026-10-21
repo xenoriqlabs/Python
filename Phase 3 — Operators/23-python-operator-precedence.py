@@ -44,9 +44,9 @@ print("Without parentheses:", without_parentheses)
 print("With parentheses:", with_parentheses)
 
 
-# ==========================================
+# ===========================================
 # 4. Multiplication and Addition
-# ==========================================
+# ===========================================
 
 result = 2 + 3 * 4
 
