@@ -42,9 +42,9 @@ print("\nString NOT IN:")
 print("Python" not in company)
 print("Xenoriq" not in company)
 
-# =========================================
+# ========================================
 # 5. Character Membership
-# =========================================
+# ========================================
 
 name = "Saif"
 
