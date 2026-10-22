@@ -205,9 +205,9 @@ if search_word in description:
 else:
     print("Search word not found")
 
-# =========================================
+# ========================================
 # 15. Combining Membership Operators
-# =========================================
+# ========================================
 
 programming_languages = [
     "Pyhton",
