@@ -74,9 +74,9 @@ print("PHP" in languages)
 print("PHP" not in languages)
 print("Python" not in languages)
 
-# =========================================
+# ========================================
 # 7. Set Membership
-# =========================================
+# ========================================
 
 skills = {
     "Python",
