@@ -190,9 +190,9 @@ if "@xenoriqlabs.com" in email:
 else:
     print("This is not a Xenoriq Labs email")
 
-# =========================================
+# ========================================
 # 14. Search Example
-# =========================================
+# ========================================
 
 description = "Xenoriq Labs builds modern software and AI solutions."
 
